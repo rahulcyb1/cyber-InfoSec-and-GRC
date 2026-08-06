@@ -1,16 +1,22 @@
 
-## About
+# Information Security & GRC
 
-This repository documents my journey in Information Security and Governance, Risk & Compliance (GRC). The projects focus on applying security concepts to practical scenarios using industry-recognized frameworks and best practices.This repository is continuously evolving as I learn and build more practical Information Security and GRC projects.
+This repository showcases my hands-on Information Security and Governance, Risk & Compliance (GRC) projects. It demonstrates practical application of security concepts, risk assessment methodologies, and industry-recognized frameworks through simulated real-world scenarios.
+
+> **Note:** This repository is continuously updated as I expand my knowledge and build additional Information Security and GRC projects.
 
 ---
 
-## Project: Risk register in banking environment      (Refer Risk_register_operational.pdf)
+## Projects
 
+### Risk Register Assessment – Banking Environment
 
 Conducted a qualitative Information Security risk assessment for a simulated banking environment.
 
-#### Scope
+**Documentation**
+- 📄 Risk Assessment Report: `Risk_Register_Operational.pdf`
+
+### Scope
 
 - Asset Identification
 - Threat Identification
@@ -20,7 +26,7 @@ Conducted a qualitative Information Security risk assessment for a simulated ban
 - CIA Triad Mapping
 - NIST Cybersecurity Framework (CSF) 2.0 Mapping
 
-#### Skills Demonstrated
+### Skills Demonstrated
 
 - Information Security
 - Governance, Risk & Compliance (GRC)
@@ -31,9 +37,7 @@ Conducted a qualitative Information Security risk assessment for a simulated ban
 - CIA Triad
 - NIST Cybersecurity Framework (CSF) 2.0
 
-
----
-## Frameworks Referenced
+### Frameworks Referenced
 
 - NIST Cybersecurity Framework (CSF) 2.0
 - CIA Triad
@@ -42,7 +46,10 @@ Conducted a qualitative Information Security risk assessment for a simulated ban
 
 ## Disclaimer
 
-These projects are created for educational purposes to demonstrate practical understanding of Information Security and GRC concepts. They are based on simulated environments and publicly available security best practices.
+This project is created for educational purposes to demonstrate practical understanding of Information Security and GRC concepts. The assessment is based on a simulated banking environment and publicly available security best practices.
 
 ---
+
+## Feedback
+
 Feedback and suggestions are always welcome.
